@@ -7,6 +7,7 @@ public class LoopPractice {
 
             System.out.println("Count: "+i);
             System.out.println("#######");
+            System.out.println("Git is Fun");
 
         }
     }
